@@ -1,7 +1,7 @@
 {
   "Parameters" : {
-    "KeyName" : "Abcd1234",
+    "KeyName" : "HelloWorld",
 	"Ec2SecurityGroup" : "launch-wizard-2",
-	"AMIID" : "ami-0474cc443c5877f81"
+	"AMIID" : "ami-04ad2567c9e3d7893"
   }
 }
