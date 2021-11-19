@@ -16,8 +16,7 @@
 },
 "Resources" : {
     "Ec2Instance" : {
-      "Type" : "AWS::EC2::Instance", 
-      "StackName" : "Value: !Ref AWS::StackName",
+      "Type" : "AWS::EC2::Instance",       
       "Properties" : {
         "ImageId" : { "Ref" : "AMIID" },
         "KeyName" : { "Ref" : "KeyName" },
